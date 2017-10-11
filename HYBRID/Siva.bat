@@ -1,0 +1,2 @@
+cd D:\SeleniumProject\SivaSeleniumProject\SivaSelProject
+java -cp D:\SeleniumProject\SivaSeleniumProject\SivaSelProject\CommonJarFiles\*;D:\SeleniumProject\SivaSeleniumProject\SivaSelProject\bin org.testng.TestNG D:\SeleniumProject\SivaSeleniumProject\SivaSelProject\siva.xml
